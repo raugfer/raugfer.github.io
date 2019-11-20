@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/raugfer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://raugfer.com
+  * I am raugfer (https://keybase.io/raugfer) on keybase.
+  * I have a public key ASAncg_H_W8n0yonVSevsZu9Z6_U6kp8zD0fPpnA11beyAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012026e8aff7571af28f6c7e6171024a0d7deca4f2d6c4fe99656022f04247cb58220a",
+      "host": "keybase.io",
+      "kid": "012027720fc7fd6f27d32a275527afb19bbd67afd4ea4a7ccc3d1f3e99c0d756dec80a",
+      "uid": "91288ce9afaa5db0600e0398303ca319",
+      "username": "raugfer"
+    },
+    "merkle_root": {
+      "ctime": 1574269421,
+      "hash": "8fc82a4a67b9fb40acdee79f1cda1b444209d0df7985cf759719512e9b3acea046f021c1ba409a41b51de2c20620e8e32bf36e731d645e74b376cccb2f0b11d8",
+      "hash_meta": "f55b74387f8af5d2c48fc6aaaa4ee10789796e7abf43db8c9872aa32b2247e83",
+      "seqno": 10340661
+    },
+    "service": {
+      "entropy": "cNnxCx5AlSxnXSaSRN4YCkO0",
+      "hostname": "raugfer.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574269430,
+  "expire_in": 504576000,
+  "prev": "1cf239b259b694c8e941ef8cff06252c7e858969a488aa77cf3fffa6b5452aaa",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ3IPx/1vJ9MqJ1Unr7GbvWev1OpKfMw9Hz6ZwNdW3sgKp3BheWxvYWTESpcCDsQgHPI5slm2lMjpQe+M/wYlLH6FiWmkiKp3zz//prVFKqrEIIy7+avU7AxZPq5Djdli2CfpUrVSDO+b8L4cR8A9PzGuAgHCo3NpZ8RAKNNXcMG6jyrHrD2BUXFMZqYZ/LBaVpHA98aTBpXFxM3VBMDoqVo1sxBmxSfAeJjY337U8Q3dtG65onVsNVB2D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL6XktoAiLiSmVVIP10eEYW2qwUGoiBOWOXELTtG3m5po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raugfer
+
+==================================================================
