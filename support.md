@@ -12,7 +12,7 @@ permalink: /support/
     border: none;
   }
   img {
-    width: 25%;
+    width: 35%;
     margin: auto 5%;
   }
 </style>
