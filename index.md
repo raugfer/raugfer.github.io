@@ -5,10 +5,9 @@
 layout: home
 ---
 
-Read my bio and résumé.
+Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
 
-Become an open source supporter.
+Become an [open source supporter](/support/).
 
-Get a support contract for your company/team.
+Follow me on [GitHub](https://github.com/raugfer).
 
-Follow me on Twitter and GitHub.
