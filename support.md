@@ -4,6 +4,15 @@ title: Support
 permalink: /support/
 ---
 
+<style type="text/css" media="screen">
+  hr {
+    margin: 10px auto;
+    height: 1px;
+    border: none;
+    background: lightgray;
+  }
+</style>
+
 If you appreciate my work please consider becoming a supporter.
 
 ---
