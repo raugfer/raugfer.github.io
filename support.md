@@ -22,7 +22,7 @@ You can become a supporter by visiting either GitHub or Patreon.
 
 # One-Time Contribution
 
-If you would like to make a one-time contribution, please, send funds to one of the crypto addresses below:
+If you would like to make a one-time contribution, send funds to one of the crypto addresses below:
 
 1. Bitcoin (BTC): 1LTMyQPWE8juyNUXnVGe166ae6uud8p9G3
 
