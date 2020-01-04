@@ -5,16 +5,16 @@ permalink: /support/
 ---
 
 <style type="text/css" media="screen">
-    hr {
-        margin: 30px auto 10px;
-        height: 1px;
-        background: #e8e8e8;
-        border: none;
-    }
-    img {
-        width: 25%;
-        margin: auto 5%;
-    }
+  hr {
+    margin: 30px auto 10px;
+    height: 1px;
+    background: #e8e8e8;
+    border: none;
+  }
+  img {
+    width: 25%;
+    margin: auto 5%;
+  }
 </style>
 
 If you appreciate my work please consider becoming a supporter.
@@ -26,8 +26,8 @@ If you appreciate my work please consider becoming a supporter.
 You can become a supporter by visiting either GitHub or Patreon.
 
 <p align="center">
-    <a href="https://github.com/sponsors/raugfer"><img alt="GitHub Sponsors" src="/assets/images/github-sponsors-badge.svg"></a>
-    <a href="https://www.patreon.com/raugfer"><img alt="Patreon" src="/assets/images/patreon-badge.svg"></a>
+  <a href="https://github.com/sponsors/raugfer"><img alt="GitHub Sponsors" src="/assets/images/github-sponsors-badge.svg"></a>
+  <a href="https://www.patreon.com/raugfer"><img alt="Patreon" src="/assets/images/patreon-badge.svg"></a>
 </p>
 
 ---
