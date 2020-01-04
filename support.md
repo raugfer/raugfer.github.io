@@ -4,15 +4,19 @@ title: Support
 permalink: /support/
 ---
 
-If you appreciate my work or benefit from it please consider being a supporter.
+If you appreciate my work or benefit from it please consider becoming a supporter.
 
 # Become a Supporter
 
 You can become a supporter by visiting either GitHub or Patreon.
 
 <p align="center">
-[![GitHub Sponsors](/assets/images/github-sponsors-badge.svg "GitHub Sponsors")](https://github.com/sponsors/raugfer)
-[![Patreon](/assets/images/patreon-badge.svg "Patreon")](https://www.patreon.com/raugfer)
+    <a href="https://github.com/sponsors/raugfer">
+        <img alt="GitHub Sponsors" src="/assets/images/github-sponsors-badge.svg">
+    </a>
+    <a href="https://www.patreon.com/raugfer">
+        <img alt="Patreon" src="/assets/images/patreon-badge.svg">
+    </a>
 </p>
 
 # One-Time Contribution
