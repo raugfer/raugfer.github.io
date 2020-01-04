@@ -16,7 +16,7 @@ I'm grateful to the following individuals and organizations for their recurring 
 
 You can become a supporter by visiting either GitHub or Patreon.
 
-[![GitHub Sponsors](/assets/images/patreon-badge.svg "GitHub Sponsors")](https://github.com/sponsors/raugfer)
+[![GitHub Sponsors](/assets/images/github-sponsors-badge.svg "GitHub Sponsors")](https://github.com/sponsors/raugfer)
 
 [![Patreon](/assets/images/patreon-badge.svg "Patreon")](https://www.patreon.com/raugfer)
 
