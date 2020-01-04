@@ -6,18 +6,22 @@ permalink: /support/
 
 If you appreciate my work please consider becoming a supporter.
 
+---
+
 ## Become a Supporter
 
 You can become a supporter by visiting either GitHub or Patreon.
 
 <p align="center">
-    <a style="width:25%" href="https://github.com/sponsors/raugfer">
-        <img alt="GitHub Sponsors" src="/assets/images/github-sponsors-badge.svg">
+    <a href="https://github.com/sponsors/raugfer">
+        <img alt="GitHub Sponsors" src="/assets/images/github-sponsors-badge.svg" style="width:25%">
     </a>
-    <a style="width:25%" href="https://www.patreon.com/raugfer">
-        <img alt="Patreon" src="/assets/images/patreon-badge.svg">
+    <a href="https://www.patreon.com/raugfer">
+        <img alt="Patreon" src="/assets/images/patreon-badge.svg" style="width:25%">
     </a>
 </p>
+
+---
 
 ## One-Time Contribution
 
@@ -27,6 +31,8 @@ crypto addresses below:
 1. Bitcoin (BTC): 1LTMyQPWE8juyNUXnVGe166ae6uud8p9G3
 
 2. Zcash (ZEC): t1ZbmAwVM8m5jJ9GpfGA24rtgtJC6ETaeuU
+
+---
 
 ## Thank You!
 
