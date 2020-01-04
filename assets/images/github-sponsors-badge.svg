@@ -33,14 +33,14 @@
         width="350"
         height="64"
         x="42"
-        y="18.999998"
-        ry="5.6470585" />
+        y="19"
+        ry="6" />
     <rect
-        ry="5.3148789"
-        y="20.882381"
-        x="43.881721"
-        height="60.235291"
-        width="346.23654"
+        ry="6"
+        y="21"
+        x="44"
+        height="60"
+        width="346"
         style="fill:url(#linearGradient926)" />
     <path
         style="fill:#262a2e"
