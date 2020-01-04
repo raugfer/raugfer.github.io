@@ -4,37 +4,37 @@ title: Support
 permalink: /support/
 ---
 
-If you appreciate my work or benefit from it please consider becoming a supporter.
+If you appreciate my work please consider becoming a supporter.
 
-# Become a Supporter
+## Become a Supporter
 
 You can become a supporter by visiting either GitHub or Patreon.
 
 <p align="center">
-    <a href="https://github.com/sponsors/raugfer">
+    <a style="width:25%" href="https://github.com/sponsors/raugfer">
         <img alt="GitHub Sponsors" src="/assets/images/github-sponsors-badge.svg">
     </a>
-    <a href="https://www.patreon.com/raugfer">
+    <a style="width:25%" href="https://www.patreon.com/raugfer">
         <img alt="Patreon" src="/assets/images/patreon-badge.svg">
     </a>
 </p>
 
-# One-Time Contribution
+## One-Time Contribution
 
-If you would like to make a one-time contribution, send funds to one of the
+If you would rather make a one-time contribution, send funds to one of the
 crypto addresses below:
 
 1. Bitcoin (BTC): 1LTMyQPWE8juyNUXnVGe166ae6uud8p9G3
 
 2. Zcash (ZEC): t1ZbmAwVM8m5jJ9GpfGA24rtgtJC6ETaeuU
 
-# Thank You!
+## Thank You!
 
-I am grateful to the following individuals and organizations for their recurring
-support which enables me to build free and open source software for the benefit
-of all.
+I am grateful to the following individuals and organizations for their
+recurring support which enables me to build free and open source software
+for the benefit of all.
 
-## Sponsors
+### Sponsors
 
-## Supporters
+### Supporters
 
