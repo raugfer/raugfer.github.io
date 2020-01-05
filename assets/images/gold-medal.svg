@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg"
+    height="200"
+    width="460">
+    <rect
+        style="fill:#bf392c"
+        width="159.76346"
+        height="45.733742"
+        x="42.273655"
+        y="212.84779"
+        transform="matrix(0.56785108,-0.82313131,0.81511235,0.5793029,0,0)" />
+    <rect
+        transform="matrix(-0.5678511,-0.8231313,-0.81511237,0.57930288,0,0)"
+        y="-165.82961"
+        x="-224.23174"
+        height="45.733742"
+        width="159.76347"
+        style="fill:#e2574c" />
+    <circle
+        r="69"
+        cy="131"
+        cx="230"
+        style="fill:#efc75e" />
+    <circle
+        r="50"
+        cy="131"
+        cx="230"
+        style="fill:#d7b354" />
+    <circle
+        r="37"
+        cy="131"
+        cx="230"
+        style="fill:#efc75e" />
+</svg>
