@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<style type="text/css" media="screen">
+<style type="text/css">
   img {
     width: 35%;
   }
