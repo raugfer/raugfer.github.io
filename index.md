@@ -5,7 +5,13 @@
 layout: home
 ---
 
-![Rodrigo Ferreira](./assets/images/profile.jpg)
+<style type="text/css" media="screen">
+  img {
+    width: 35%;
+  }
+</style>
+
+<img alt="Rodrigo Ferreira" src="/assets/images/profile.jpg">
 
 Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
 
