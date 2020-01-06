@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![Rodrigo Ferreira](./assets/images/profile.jpg)
+
 Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
 
 Become an [open-source supporter](/support/).
