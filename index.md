@@ -7,7 +7,7 @@ layout: home
 
 Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
 
-Become an [open source supporter](/support/).
+Become an [open-source supporter](/support/).
 
 Follow me on [GitHub](https://github.com/raugfer).
 
