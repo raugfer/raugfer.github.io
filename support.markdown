@@ -21,7 +21,7 @@ If you appreciate my work please consider becoming a supporter.
 
 ---
 
-# Become a Supporter
+## Become a Supporter
 
 You can become a supporter by visiting either GitHub or Patreon.
 
@@ -32,7 +32,7 @@ You can become a supporter by visiting either GitHub or Patreon.
 
 ---
 
-# One-Time Contribution
+## One-Time Contribution
 
 If you would rather make a one-time contribution, send funds to one of the
 crypto addresses below:
@@ -44,14 +44,14 @@ crypto addresses below:
 <!--
 ---
 
-# Thank You!
+## Thank You!
 
 I am grateful to the following individuals and organizations for their
 recurring support which enables me to build free and open source software
 for the benefit of all.
 
-## Sponsors
+### Sponsors
 
-## Supporters
+### Supporters
 -->
 
