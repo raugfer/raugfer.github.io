@@ -13,6 +13,8 @@ layout: home
 
 <img alt="Rodrigo Ferreira" src="/assets/images/profile.jpg">
 
+# Hi there, I am raugfer!
+
 Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
 
 Become an [open-source supporter](/support/).
