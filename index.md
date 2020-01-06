@@ -11,8 +11,6 @@ layout: home
   }
 </style>
 
-<img alt="Rodrigo Ferreira" src="/assets/images/profile.jpg">
-
 # Hi there, I am raugfer!
 
 Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
@@ -20,4 +18,6 @@ Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
 Become an [open-source supporter](/support/).
 
 Follow me on [GitHub](https://github.com/raugfer).
+
+<img alt="Rodrigo Ferreira" src="/assets/images/profile.jpg">
 
