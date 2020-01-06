@@ -4,7 +4,7 @@ title: Support
 permalink: /support/
 ---
 
-<style type="text/css" media="screen">
+<style type="text/css">
   hr {
     margin: 30px auto 10px;
     height: 1px;
