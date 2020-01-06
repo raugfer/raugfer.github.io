@@ -7,9 +7,9 @@ permalink: /support/
 <style type="text/css">
   hr {
     margin: 30px auto 10px;
-    height: 1px;
-    background: #e8e8e8;
+    height: 0px;
     border: none;
+    border-top: solid 1px #e8e8e8;
   }
   img {
     width: 35%;
