@@ -20,4 +20,3 @@ Become an [open-source supporter](/support/).
 Follow me on [GitHub](https://github.com/raugfer).
 
 <img alt="Rodrigo Ferreira" src="/assets/images/profile.jpg">
-
