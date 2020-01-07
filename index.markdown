@@ -17,6 +17,6 @@ Read my [bio](./about/) and [résumé](/assets/docs/resume.pdf).
 
 Become an [open-source supporter](/support/).
 
-Check me out on [GitHub](https://github.com/raugfer) or [StackOverflow](https://stackoverflow.com/users/story/1078623).
+Check me out on [GitHub](https://github.com/raugfer) and [StackOverflow](https://stackoverflow.com/users/story/1078623).
 
 <img alt="Rodrigo Ferreira" src="/assets/images/profile.jpg">
