@@ -10,7 +10,7 @@ I am in constant search of simplicity, performance and integrity when conceiving
 
 I formally studied Computer Science:
 
-* I have a Ph.D. degree from [Yale University](https://cpsc.yale.edu/) (2010). I became a researcher an expert in Formal Semantics and Program Verification.
+* I have a Ph.D. degree from [Yale University](https://cpsc.yale.edu/) (2010). I became a researcher and expert in Formal Semantics and Program Verification.
 * I have a M.Sc. degree from [Unicamp](https://www.ic.unicamp.br/) (2001). I wrote a complete implementation of the JVM, including AOT/JIT compiler and system runtime; it was called [JewelVM](https://github.com/jewelvm).
 * I have a B.Sc. degree from [UFMG](https://www.dcc.ufmg.br/) (1998). I acquired a strong systems background and had lots of fun writing program in C, C++, Pascal, assembly and others.
 
@@ -51,7 +51,7 @@ I spend more time naming and organizing things rather than implementing them.
 
 I believe at least 20% of the time should be devoted to refactoring.
 
-I document for my older self, to read in five years.
+I document for my older self, to read in 5 years.
 
 I do not allocate all my working hours to others.
 
