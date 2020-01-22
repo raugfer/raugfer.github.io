@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I am software engineer with broad experience in developing embedded and system software, full-stack and mobile applications.
+I am software engineer with broad experience in developing system and embedded software, full-stack and mobile applications.
 
 I am inconstant search of simplicity, performance and integrity when conceiving computational systems.
 
 I formally studied Computer Science:
 
-* I have a Ph.D. degree from Yale University (2010). I became a researcher an expert in Formal Semantics and Program Verification.
-* I have a M.Sc. degree from Unicamp (2001). I wrote a complete implementation of the JVM, including AOT/JIT compiler and system runtime.
-* I have a B.Sc. degree from UFMG (1998). I acquired a strong systems background and had lots of fun writting program in C, C++, Pascal, assembly and others.
+* I have a Ph.D. degree from [Yale University](https://cpsc.yale.edu/) (2010). I became a researcher an expert in Formal Semantics and Program Verification.
+* I have a M.Sc. degree from [Unicamp](https://www.ic.unicamp.br/) (2001). I wrote a complete implementation of the JVM, including AOT/JIT compiler and system runtime.
+* I have a B.Sc. degree from [UFMG](https://www.dcc.ufmg.br/) (1998). I acquired a strong systems background and had lots of fun writting program in C, C++, Pascal, assembly and others.
 
-I would like to grown my carreer as an open-software developer.
+I would like to grown my carreer as an open-software developer:
 
 * [Cashu](https://cachu.cc/) is a non-custodial mobile crypto wallet.
 * [crypto-java](https://github.com/raugfer/crypto-java) is a crypto primitives library written from scratch and supporting the most popular cryptocurrencies.
@@ -27,15 +27,15 @@ I have plenty of ideas to improve programming languages and tools.
 
 I demand the use of type systems in programming.
 
-I have received multiple scholarships.
-
 I have written a couple of [published papers](https://scholar.google.com.br/citations?user=IIpRq38AAAAJ).
+
+I have received multiple scholarships.
 
 I have once won two out of three prizes in a hackathon.
 
-I code with [gedit](https://wiki.gnome.org/Apps/Gedit) and a [bash](https://www.gnu.org/software/bash/) console.
+I write mostly [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Rust](https://www.rust-lang.org/) programs.
 
-I write mostly [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/) and [Rust](https://www.rust-lang.org/) programs, at the moment.
+I code with [gedit](https://wiki.gnome.org/Apps/Gedit) and a [bash](https://www.gnu.org/software/bash/) console.
 
 I usually remove comments and style other people's code before I read.
 
