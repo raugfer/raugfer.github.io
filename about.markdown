@@ -11,7 +11,7 @@ I am inconstant search of simplicity, performance and integrity when conceiving 
 I formally studied Computer Science:
 
 * I have a Ph.D. degree from [Yale University](https://cpsc.yale.edu/) (2010). I became a researcher an expert in Formal Semantics and Program Verification.
-* I have a M.Sc. degree from [Unicamp](https://www.ic.unicamp.br/) (2001). I wrote a complete implementation of the JVM, including AOT/JIT compiler and system runtime.
+* I have a M.Sc. degree from [Unicamp](https://www.ic.unicamp.br/) (2001). I wrote a complete implementation of the JVM, including AOT/JIT compiler and system runtime. It was called [JewelVM](https://github.com/jewelvm).
 * I have a B.Sc. degree from [UFMG](https://www.dcc.ufmg.br/) (1998). I acquired a strong systems background and had lots of fun writting program in C, C++, Pascal, assembly and others.
 
 I would like to grown my carreer as an open-software developer:
