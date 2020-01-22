@@ -31,7 +31,7 @@ I have written a couple of [published papers](https://scholar.google.com.br/cita
 
 I have received multiple scholarships.
 
-I have once won two out of three prizes in a hackathon.
+I have once won 2 out of 3 prizes in a hackathon.
 
 I have written compiler code for a large graphics card manufacturer.
 
