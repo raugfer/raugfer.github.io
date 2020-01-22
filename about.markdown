@@ -33,7 +33,7 @@ I have written a couple of [published papers](https://scholar.google.com.br/cita
 
 I have once won two out of three prizes in a hackathon.
 
-I code with gedit and a bash console.
+I code with [gedit](https://wiki.gnome.org/Apps/Gedit) and a [bash](https://www.gnu.org/software/bash/) console.
 
 I write mostly [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/) and [Rust](https://www.rust-lang.org/) programs, at the moment.
 
