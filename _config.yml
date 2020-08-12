@@ -24,7 +24,7 @@ email: contact@raugfer.com
 description: >- # this means to ignore newlines until "baseurl:"
   Developer | Researcher | Entrepreneur
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://raugfer.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://raugfer.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  raugfer
 linkedin_username: raugfer
 twitter_username: raugfer
