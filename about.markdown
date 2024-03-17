@@ -16,7 +16,7 @@ I formally studied Computer Science:
 
 I would like to grown my career as an open-software developer:
 
-* [Cashu](https://cachu.cc/) is a non-custodial mobile crypto wallet.
+* [Cashu](https://cashu.cc/) is a non-custodial mobile crypto wallet.
 * [crypto-java](https://github.com/raugfer/crypto-java) is a crypto primitives library written from scratch and supporting the most popular cryptocurrencies.
 
 I am a decentralization advocate and blockchain enthusiast.
