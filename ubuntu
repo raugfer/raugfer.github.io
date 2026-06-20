@@ -10,4 +10,4 @@ exec docker run \
 	-w /workspaces/$WORKSPACE/ \
 	-e TERM=$TERM \
 	$ID:$VERSION_ID \
-	bash -c "apt update && apt upgrade -y && apt install -y docker.io gosu sudo && groupmod -g "$GID" docker && usermod -aG docker,sudo ubuntu && echo 'ubuntu ALL=(ALL) NOPASSWD:ALL' > /etc/sudoers.d/ubuntu && exec gosu ubuntu bash"
+	bash -c "apt-get update && apt-get upgrade -y && apt-get install -y docker.io gosu sudo && groupmod -g "$GID" docker && usermod -aG docker,sudo ubuntu && echo 'ubuntu ALL=(ALL) NOPASSWD:ALL' > /etc/sudoers.d/ubuntu && exec gosu ubuntu bash"
