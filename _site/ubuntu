@@ -1,0 +1,13 @@
+#!/bin/sh
+. /etc/os-release
+WORKSPACE=$(basename "$PWD")
+GID=$(getent group docker | cut -d: -f3)
+exec docker run \
+	-it \
+	--rm \
+	-v /var/run/docker.sock:/var/run/docker.sock \
+	-v $PWD/:/workspaces/$WORKSPACE/ \
+	-w /workspaces/$WORKSPACE/ \
+	-e TERM=$TERM \
+	$ID:$VERSION_ID \
+	bash -c "apt update && apt upgrade -y && apt install -y docker.io gosu sudo && groupmod -g "$GID" docker && usermod -aG docker,sudo ubuntu && echo 'ubuntu ALL=(ALL) NOPASSWD:ALL' > /etc/sudoers.d/ubuntu && exec gosu ubuntu bash"
