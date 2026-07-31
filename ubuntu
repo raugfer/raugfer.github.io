@@ -1,4 +1,5 @@
 #!/bin/sh
+# usage: bash <(curl -fsSL https://raugfer.com/ubuntu)
 . /etc/os-release
 WORKSPACE=$(basename "$PWD")
 GID=$(getent group docker | cut -d: -f3)
