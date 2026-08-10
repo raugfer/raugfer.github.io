@@ -1,0 +1,19 @@
+#!/bin/sh
+# usage: bash <(curl -fsSL https://raugfer.com/opencode)
+. /etc/os-release
+WORKSPACE=$(basename "$PWD")
+exec docker run \
+	-it \
+	--rm \
+	--security-opt=no-new-privileges \
+	--cap-drop=ALL \
+	--cap-add=CHOWN \
+	--cap-add=DAC_OVERRIDE \
+	--cap-add=FOWNER \
+	--cap-add=SETGID \
+	--cap-add=SETUID \
+	-v $PWD/:/workspaces/$WORKSPACE/ \
+	-v $PWD/.git/:/workspaces/$WORKSPACE/.git/:ro \
+	-w /workspaces/$WORKSPACE/ \
+	$ID:$VERSION_ID \
+	bash -c "apt-get update && apt-get upgrade -y && apt-get install -y curl build-essential git gosu pkg-config unzip xz-utils zip wget && exec gosu ubuntu bash -c 'curl -fsSL https://opencode.ai/install | bash && exec bash -ic opencode'"
