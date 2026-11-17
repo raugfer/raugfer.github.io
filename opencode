@@ -16,4 +16,4 @@ exec docker run \
 	-v $PWD/.git/:/workspaces/$WORKSPACE/.git/:ro \
 	-w /workspaces/$WORKSPACE/ \
 	$ID:$VERSION_ID \
-	bash -c "apt-get update && apt-get upgrade -y && apt-get install -y curl build-essential git gosu pkg-config unzip xz-utils zip wget && exec gosu ubuntu bash -c 'curl -fsSL https://opencode.ai/install | bash && exec bash -ic opencode'"
+	bash -c "apt-get update && apt-get upgrade -y && apt-get install -y curl build-essential git gosu pkg-config unzip xz-utils zip wget && exec gosu ubuntu bash -c 'curl -fsSL https://opencode.ai/v2/install | bash && exec bash -ic opencode'"
